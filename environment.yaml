@@ -1,0 +1,16 @@
+name: rendering-tools
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - cmake
+  - make
+  - c-compiler
+  - cxx-compiler
+  - glfw
+  - glm
+  - fmt
+  - imgui
+ 
