@@ -224,6 +224,7 @@ void SpacecraftRenderingTools::onMouseMove(double xpos, double ypos) {
 
     ImGuiIO& io = ImGui::GetIO();
     io.IniFilename = nullptr;
+    io.WantSaveIniSettings = false;
 
     if (isDragging_) {
         glm::vec3 currentPoint = mapToSphere(xpos, ypos);
