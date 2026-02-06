@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="assets/logo.png" width="600" alt="Project Logo">
+  <img src="assets/logo_2.png" width="600" alt="Project Logo">
   
-# Spacecraft Rendering Tools
 </div>
 
 
